@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SuryanshuTomar
-- 👀 I’m interested in Machine Learning, Cloud Development and Full Dive VR.
-- 🌱 I’m currently learning Flutter.
-- 💞️ I’m looking to collaborate on Flutter and Full Stack Projects.
+- 👀 I’m interested in Machine Learning, Cloud and Full Stack Development.
+- 🌱 I’m currently Full Stack Development and DSA.
+- 💞️ I’m looking to collaborate on Web Development and Full Stack Projects.
 - 📫 How to reach me - suryanshutomar123@outlook.com
 
 <!---
