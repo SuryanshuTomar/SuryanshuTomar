@@ -28,8 +28,8 @@
 <br /> 
 <span>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=suryanshutomar&show_icons=true&locale=en" alt="suryanshutomar" />  &nbsp; &nbsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshutomar&" alt="suryanshutomar" /> &nbsp;
-<br /> 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshutomar&" alt="suryanshutomar" /> &nbsp; &nbsp;
+<br />  &nbsp; &nbsp;
 </span>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryanshutomar&show_icons=true&locale=en&layout=compact" alt="suryanshutomar" />
